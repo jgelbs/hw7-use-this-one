@@ -1,8 +1,8 @@
 
-# Your name:
-# Your student id:
-# Your email:
-# List who you have worked with on this project:
+# Your name: Jackson Gelbard
+# Your student id: 45992636
+# Your email: jgelbard@umich.edu
+# List who you have worked with on this project: Jackson Gertner and Amelia Learner
 
 import unittest
 import sqlite3
